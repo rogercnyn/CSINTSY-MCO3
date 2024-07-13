@@ -1,0 +1,14 @@
+﻿MCO3
+
+
+CSINTSY S11 Group 4
+
+
+Arco - Documentation
+Canayon - Implementation of Logistics Regression and Documentation
+Javid - Documentation
+Pangan - Documentation
+Tayzon - Implementation of K Nearest Neighbor and Documentation
+
+
+Link to Google Colab: https://colab.research.google.com/drive/1rryUrheiZgntN8KYw5Nq1uFuoQ4JjmEg?usp=sharing
